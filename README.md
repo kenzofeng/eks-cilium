@@ -13,7 +13,7 @@ helm repo add cilium https://helm.cilium.io/
 ```
 sh gen.sh
 ```
-#### Copy ca/dist/config.yaml content to replace cluster1.yaml and cluster2.yaml
+#### Copy dist/config.yaml content to replace cluster1.yaml and cluster2.yaml
 ```
       ca:
         cert:
